@@ -2,4 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/SingletonPattern
+*.exe
+*.dll
+*.pdb
+*.suo
+*.sln
+*.cache
+*.txt
+*/obj
+*/bin
+*.snippet
