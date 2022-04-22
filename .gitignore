@@ -12,3 +12,5 @@
 */obj
 */bin
 *.snippet
+*.sqllite
+*/.vs
